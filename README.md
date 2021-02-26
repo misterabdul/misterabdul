@@ -11,14 +11,14 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 - Text Editor : [Vim](https://www.vim.org/) & [NeoVim](https://neovim.io/)
 - Version Control : [Git](https://git-scm.com/)
 
-### My Stack
+### My Solution Stack
 
-- OS : [CentOS](https://www.centos.org/)
+- OS : [CentOS](https://www.centos.org/) (planning to switch to [Rocky Linux](https://rockylinux.org/))
 - Server : [Nginx](https://nginx.org/en/)
 - Container : [Docker](https://www.docker.com/), [Alpine Linux](https://hub.docker.com/_/alpine/)
 - Database : [MariaDB](https://mariadb.org/) or [PostgreSQL](https://www.postgresql.org/)
 - Backend : [PHP](https://www.php.net/), [Laravel](https://laravel.com/)
-- Web Frontend : [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Material Design Bootstrap](https://mdbootstrap.com/)
+- Web Frontend : [NodeJS](https://nodejs.org/en/), [Typescript](https://www.typescriptlang.org/), [VueJS](https://vuejs.org/), [NuxtJS](https://nuxtjs.org/), [Material Design Bootstrap](https://mdbootstrap.com/)
 - Mobile Frontend : [Java](https://www.java.com/en/), [Android](https://www.android.com/)
 
 ### My Current Interest
@@ -27,7 +27,9 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 - C (My favorite programming language)
 - [Golang](https://golang.org/) (Sometimes, I learn Golang in my free time)
 - [OpenGL](https://www.opengl.org/) (I want to know how computer process and display graphics)
-- [Unity](https://unity.com/) (I'm planning to learn and create games)
+- [Unity](https://unity.com/) (I'm planning to learn and create basic 2D platformer games)
+- [Rocky Linux](https://rockylinux.org/) (Future OS choice for my solution stack)
+- [Deno](https://deno.land/) (Future NodeJS replacement ?)
 
 ### My Links
 
