@@ -42,6 +42,6 @@ Currently I'm working as a programmer in a tech company located in Medan, Sumate
 
 ### My Stats
 
-Coding Stats                                                                                                                | Language Stats
-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------
-![Abdul Pasaribu's WakaTime Coding Stats](https://wakatime.com/share/@misterabdul/77ddcfed-94ab-44a9-9d1f-f84c10123ebe.svg) | ![Abdul Pasaribu's WakaTime Programming Language Stats](https://wakatime.com/share/@misterabdul/487e93c8-0a58-420b-966a-cb1e3ede313e.svg)
+![Abdul Pasaribu's WakaTime Coding Stats](https://wakatime.com/share/@misterabdul/77ddcfed-94ab-44a9-9d1f-f84c10123ebe.svg)
+
+![Abdul Pasaribu's WakaTime Programming Language Stats](https://wakatime.com/share/@misterabdul/487e93c8-0a58-420b-966a-cb1e3ede313e.svg)
