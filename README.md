@@ -5,6 +5,7 @@ I love everything about computers from the perspective of software & programs si
 ### Stats
 
 ![misterabdul's github stats](https://github-readme-stats.vercel.app/api?username=misterabdul)
+![misterabdul's language stats](https://github-readme-stats.vercel.app/api/top-langs?username=misterabdul&layout=compact)
 
 ### Current Hobby Project Plan
 
